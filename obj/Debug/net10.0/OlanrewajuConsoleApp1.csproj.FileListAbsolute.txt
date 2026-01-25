@@ -1,0 +1,4 @@
+C:\Users\HP\OneDrive\Desktop\OlanrewajuConsoleApp1\OlanrewajuConsoleApp1\obj\Debug\net10.0\OlanrewajuConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\OlanrewajuConsoleApp1\OlanrewajuConsoleApp1\obj\Debug\net10.0\OlanrewajuConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\OlanrewajuConsoleApp1\OlanrewajuConsoleApp1\obj\Debug\net10.0\OlanrewajuConsoleApp1.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\OlanrewajuConsoleApp1\OlanrewajuConsoleApp1\obj\Debug\net10.0\OlanrewajuConsoleApp1.csproj.CoreCompileInputs.cache
