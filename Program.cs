@@ -115,7 +115,7 @@ public class cardHolder
 
     // Prompt user
     Console.WriteLine("Welcome to SimpleATM");
-    Console.WriteLine("Please insert your deit card: ");
+    Console.WriteLine("Please insert your debit card: ");
     string debitCardNum = "";
     cardHolder currentUser;
 
