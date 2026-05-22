@@ -5,7 +5,7 @@ class Program
     static void Main(string[] args)
     {
         // Predefined account balance
-        decimal balance = 5000000;
+        decimal balance = 500000000;
 
         // PIN setup
         const string correctPin = "1111";
@@ -53,6 +53,7 @@ class Program
             Console.WriteLine("2. Deposit Money");
             Console.WriteLine("3. Withdraw Money");
             Console.WriteLine("4. Exit");
+            Console.WriteLine("5. Transfer Money (Optional Feature)");
             Console.Write("Enter your choice: ");
 
             string choice = Console.ReadLine();
